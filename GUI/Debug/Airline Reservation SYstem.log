@@ -1,0 +1,7 @@
+﻿  PassengerLogin.cpp
+  SignupOrLoginPassenger.cpp
+  Start.cpp
+E:\Programming\SP Project\Airline Reservation SYstem\Airline Reservation SYstem\Start.cpp(6,33): warning C4829: Possibly incorrect parameters to function main. Consider 'int main(Platform::Array<Platform::String^>^ argv)'
+  Generating Code...
+  AdminLogin.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
+  Airline Reservation SYstem.vcxproj -> E:\Programming\SP Project\Airline Reservation SYstem\Debug\Airline Reservation SYstem.exe

@@ -1,0 +1,7 @@
+E:\Programming\SP Project\Airline Reservation SYstem\Airline Reservation SYstem\Debug\Airline Reservation SYstem.vcxprojAssemblyReference.cache
+E:\Programming\SP Project\Airline Reservation SYstem\Airline Reservation SYstem\Debug\AirlineReservationSYstem.AdminLogin.resources
+E:\Programming\SP Project\Airline Reservation SYstem\Airline Reservation SYstem\Debug\AirlineReservationSYstem.PassengerLogin.resources
+E:\Programming\SP Project\Airline Reservation SYstem\Airline Reservation SYstem\Debug\AirlineReservationSYstem.PassengerSignup.resources
+E:\Programming\SP Project\Airline Reservation SYstem\Airline Reservation SYstem\Debug\AirlineReservationSYstem.SignupOrLoginPassenger.resources
+E:\Programming\SP Project\Airline Reservation SYstem\Airline Reservation SYstem\Debug\AirlineReservationSYstem.Start.resources
+E:\Programming\SP Project\Airline Reservation SYstem\Airline Reservation SYstem\Debug\Airline Reservation SYstem.vcxproj.GenerateResource.cache

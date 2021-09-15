@@ -1,0 +1,24 @@
+C:\Users\Compu tech\source\repos\GUI\GUI\Debug\GUI.vcxproj.AssemblyReference.cache
+C:\Users\Compu tech\source\repos\GUI\GUI\Debug\GUI.MyForm1.resources
+C:\Users\Compu tech\source\repos\GUI\GUI\Debug\GUI.MyForm2.resources
+C:\Users\Compu tech\source\repos\GUI\GUI\Debug\GUI.vcxproj.GenerateResource.cache
+G:\Airline reservation system Emtinan\GUI\GUI\Debug\GUI.vcxprojAssemblyReference.cache
+G:\Airline reservation system Emtinan\GUI\GUI\Debug\GUI.AdminLogin.resources
+G:\Airline reservation system Emtinan\GUI\GUI\Debug\GUI.FlightResults.resources
+G:\Airline reservation system Emtinan\GUI\GUI\Debug\GUI.BookAFlight.resources
+G:\Airline reservation system Emtinan\GUI\GUI\Debug\GUI.PassengerLogin.resources
+G:\Airline reservation system Emtinan\GUI\GUI\Debug\GUI.PassengerSignup.resources
+G:\Airline reservation system Emtinan\GUI\GUI\Debug\GUI.SignupOrLoginPassenger1.resources
+G:\Airline reservation system Emtinan\GUI\GUI\Debug\GUI.Start.resources
+G:\Airline reservation system Emtinan\GUI\GUI\Debug\GUI.vcxproj.GenerateResource.cache
+G:\Airline reservation system Emtinan\GUI\GUI\Debug\GUI.SignupOrLoginPassenger.resources
+E:\Airline reservation system\GUI\GUI\Debug\GUI.vcxprojAssemblyReference.cache
+E:\Airline reservation system\GUI\GUI\Debug\GUI.AdminLogin.resources
+E:\Airline reservation system\GUI\GUI\Debug\GUI.FlightResults.resources
+E:\Airline reservation system\GUI\GUI\Debug\GUI.BookAFlight.resources
+E:\Airline reservation system\GUI\GUI\Debug\GUI.PassengerLogin.resources
+E:\Airline reservation system\GUI\GUI\Debug\GUI.PassengerSignup.resources
+E:\Airline reservation system\GUI\GUI\Debug\GUI.SignupOrLoginPassenger.resources
+E:\Airline reservation system\GUI\GUI\Debug\GUI.SignupOrLoginPassenger1.resources
+E:\Airline reservation system\GUI\GUI\Debug\GUI.Start.resources
+E:\Airline reservation system\GUI\GUI\Debug\GUI.vcxproj.GenerateResource.cache

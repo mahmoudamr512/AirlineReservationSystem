@@ -1,0 +1,131 @@
+  GUI.AddAFlight.resources - Embedded, ContainedInManifestFile, 
+  GUI.AdminDashboard.resources - Embedded, ContainedInManifestFile, 
+  GUI.AdminLogin.resources - Embedded, ContainedInManifestFile, 
+  GUI.BookAFlight.resources - Embedded, ContainedInManifestFile, 
+  GUI.BookForm.resources - Embedded, ContainedInManifestFile, 
+  GUI.FlightResults.resources - Embedded, ContainedInManifestFile, 
+  GUI.PassengerDashboard.resources - Embedded, ContainedInManifestFile, 
+  GUI.PassengerLogin.resources - Embedded, ContainedInManifestFile, 
+  GUI.PassengerSignup.resources - Embedded, ContainedInManifestFile, 
+  GUI.SignupOrLoginPassenger.resources - Embedded, ContainedInManifestFile, 
+  GUI.SignupOrLoginPassenger1.resources - Embedded, ContainedInManifestFile, 
+  GUI.Start.resources - Embedded, ContainedInManifestFile, 
+  GUI.Ticket1.resources - Embedded, ContainedInManifestFile, 
+ImageRuntimeVersion: v4.0.30319
+Assembly GUI, Version=0.0.*, Culture=Invariant Language (Invariant Country): 
+	hash=SHA1, flags=PublicKey
+Assembly mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Assembly System.Data, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Assembly System, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Assembly System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a: 
+	hash=None, flags=None
+Assembly System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Assembly System.Xml, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Class GUI.EditFlightForm: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.Form
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Methods:
+    EditFlight(String): PrivateScope, Public, HideBySig
+    setter(String): PrivateScope, Public, HideBySig
+Class GUI.PopupForm: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.Form
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Fields:
+    Int32 RowIndex : Public
+    System.Windows.Forms.DataGridView dataGridView1 : Public
+  Methods:
+    CancelFlight(String): PrivateScope, Public, HideBySig
+    setters(DataGridView, Int32): PrivateScope, Public, HideBySig
+    setter(String): PrivateScope, Public, HideBySig
+Class GUI.AddAFlight: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.Form
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Fields:
+    System.String username : Public
+  Methods:
+    addaflight(basic_string<char\,std::char_traits<char>\,std::allocator<char> >*, basic_string<char\,std::char_traits<char>\,std::allocator<char> >*, basic_string<char\,std::char_traits<char>\,std::allocator<char> >*, basic_string<char\,std::char_traits<char>\,std::allocator<char> >*, basic_string<char\,std::char_traits<char>\,std::allocator<char> >*, basic_string<char\,std::char_traits<char>\,std::allocator<char> >*, basic_string<char\,std::char_traits<char>\,std::allocator<char> >*, basic_string<char\,std::char_traits<char>\,std::allocator<char> >*): PrivateScope, Public, HideBySig
+    setter(Form): PrivateScope, Public, HideBySig
+Class GUI.AdminDashboard: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.Form
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Methods:
+    readFile(Int32): PrivateScope, Public, HideBySig
+Class GUI.AdminLogin: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.Form
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Fields:
+    System.Windows.Forms.Form prevForm : Public
+  Methods:
+    login(basic_string<char\,std::char_traits<char>\,std::allocator<char> >*, basic_string<char\,std::char_traits<char>\,std::allocator<char> >*): PrivateScope, Public, HideBySig
+Class GUI.CustomMoreBox: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.Form
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Fields:
+    System.String username : Public
+  Methods:
+    CancelReservation(basic_string<char\,std::char_traits<char>\,std::allocator<char> >*, basic_string<char\,std::char_traits<char>\,std::allocator<char> >*): PrivateScope, Public, HideBySig
+    ModifyReservation(basic_string<char\,std::char_traits<char>\,std::allocator<char> >*, basic_string<char\,std::char_traits<char>\,std::allocator<char> >*): PrivateScope, Public, HideBySig
+    setters(DataGridView, Int32, Form): PrivateScope, Public, HideBySig
+Class GUI.Ticket: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.Form
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Fields:
+    System.String username : Public
+    System.String passengerName : Public
+  Methods:
+    TicketInfo(DataGridView, Int32, Form): PrivateScope, Public, HideBySig
+Class GUI.BookForm: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.Form
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Fields:
+    System.String username : Public
+  Methods:
+    setter(String): PrivateScope, Public, HideBySig
+Class GUI.FlightResults: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.Form
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Fields:
+    System.String username : Public
+  Methods:
+    searchinafile(String, String, String): PrivateScope, Public, HideBySig
+    setter(String, String, String): PrivateScope, Public, HideBySig
+Class GUI.BookAFlight: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.Form
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Fields:
+    System.String username : Public
+    System.Windows.Forms.Form passengerDashboard : Public
+Class GUI.PassengerDashboard: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.Form
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Fields:
+    System.String username : Public
+    System.String passengerName : Public
+  Methods:
+    searchInAFile(basic_string<char\,std::char_traits<char>\,std::allocator<char> >*): PrivateScope, Public, HideBySig
+    readAFlight(basic_string<char\,std::char_traits<char>\,std::allocator<char> >*): PrivateScope, Public, HideBySig
+Class GUI.PassengerLogin: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.Form
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Fields:
+    System.Windows.Forms.Form prevForm : Public
+  Methods:
+    login(basic_string<char\,std::char_traits<char>\,std::allocator<char> >*, basic_string<char\,std::char_traits<char>\,std::allocator<char> >*): PrivateScope, Public, HideBySig
+Class GUI.PassengerSignup: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.Form
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Fields:
+    System.Windows.Forms.Form prevForm : Public
+Class GUI.SignupOrLoginPassenger: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.Form
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Fields:
+    System.Windows.Forms.Form prevForm : Public
+Class GUI.Start: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.Form
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName

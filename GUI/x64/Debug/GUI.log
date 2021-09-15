@@ -1,0 +1,5 @@
+﻿  Start.cpp
+e:\full project\gui\gui\bookform.h(218): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+e:\full project\gui\gui\start.cpp(6): warning C4829: Possibly incorrect parameters to function main. Consider 'int main(Platform::Array<Platform::String^>^ argv)'
+  Start.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
+  GUI.vcxproj -> E:\Full Project\GUI\x64\Debug\GUI.exe

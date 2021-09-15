@@ -1,0 +1,17 @@
+5500 06-09-2021 45 Egypt Dubai 12:00 2:00 Dubai 
+5501 08-09-2021 34 Dubai Moscow 10:00 2:00 France 
+5502 05-09-2021 30 Moscow USA 06:00 2:00 France 
+5503 03-09-2021 45 Egypt Dubai 12:00 2:00 Dubai 
+5504 01-09-2021 21 Moscow Algeria 04:00 06:00 France 
+5505 03-09-2021 80 France Dubai 12:00 2:00 France 
+5506 10-09-2021 12 Egypt Dubai 12:00 06:00 Egyptian 
+5507 06-10-2021 80 Egypt Algeria 12:00 06:00 Egyptian 
+5508 06-09-2021 60 Dubai Montreal 12:00 2:00 Dubai 
+5509 06-11-2021 120 Egypt Dubai 12:00 06:00 Egyptian 
+5510 09-09-2021 300 Montreal Dubai 12:00 2:00 Dubai 
+5511 01-09-2021 380 Egypt Dubai 12:00 06:00 Egyptian 
+5512 01-09-2021 200 Algeria Dubai 06:00 08:00 Dubai 
+5513 28-09-2021 45 Dubai USA 12:00 06:00 American 
+5514 16-09-2021 50 Egypt France 12:00 2:00 British 
+5515 30-09-2021 12 Algeria England 12:00 04:00 British 
+55522 30-09-2021 26 Moscow USA 12:00 08:00 Russian

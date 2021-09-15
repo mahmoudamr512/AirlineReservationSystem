@@ -1,0 +1,2 @@
+202 18-06-2021 200 Egypt America 10:00GMT 22:00GMT AmericanAirlines
+501 10-06-2021 200 Egypt Dubai 10GMT 2GMT DubaiAirways
